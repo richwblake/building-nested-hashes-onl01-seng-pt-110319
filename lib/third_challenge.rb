@@ -26,7 +26,7 @@ def third_challenge
         :age => "54"
         },
       :heroine => {
-        :name => "Romeo",
+        :name => "Juleit",
         :age => "15",
         :status => "alive"
         },
